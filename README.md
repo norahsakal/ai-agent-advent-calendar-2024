@@ -24,8 +24,8 @@ Through code, visualizations, and step-by-step explanations, you’ll learn how 
 
 1. **Clone the Repo**
     ```bash
-    git clone https://github.com/yourusername/ai-advent-calendar-2024.git
-    cd ai-advent-calendar-2024
+    git clone https://github.com/yourusername/ai-agent-advent-calendar-2024.git
+    cd ai-agent-advent-calendar-2024
     ```
 
 2. **Install Dependencies**
