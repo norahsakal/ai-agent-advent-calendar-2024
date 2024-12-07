@@ -2,6 +2,8 @@
 
 Welcome to the **AI Agent Advent Calendar 2024**, a daily exploration of how **AI agents** can transform online retail by addressing the limitations of naive chatbots.
 
+![AI Agent Advent Calendar](images/cover.png)
+
 ## 📖 About This Series
 
 Every day in December, I'll publish a new Jupyter Notebook highlighting a common challenge faced by Retrieval-Augmented Generation (RAG) chatbots and demonstrating how **AI agents** overcome these obstacles.  
@@ -69,4 +71,4 @@ By adopting AI agents, you can:
 ### 📩 Reach Out
 If you'd like to improve the notebooks or share ideas for challenges, feel free to reach out.
 
-Have questions about implementing these solutions in your business? Contact us at info@braine.ai
+Have questions about implementing these solutions in your business? Contact me at info@braine.ai
