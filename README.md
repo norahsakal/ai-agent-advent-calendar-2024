@@ -85,10 +85,17 @@ Have questions about implementing these solutions in your business? Contact me a
 ## Previous issues walkthrough
 
 🎄 Dec 1: [How AI Agents Ask Clarifying Questions](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-ask-clarifying-questions)
+
 🎄 Dec 2: [How AI Agents Understand Context Shifts](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-understand-context-shifts)
+
 🎄 Dec 3: [How AI Agents Handle Requests for Specific Measurements](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-handle-numerical-requests)
+
 🎄 Dec 4: [How AI Agents Handle Multiple Product Requests in One Query](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-multiple-requests)
+
 🎄 Dec 5: [How AI Agents Handle Price-Based Queries](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-price-filter)
+
 🎄 Dec 6: [How AI Agents Offer Style Suggestions](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-style-suggestions)
+
 🎄 Dec 7: [How AI Agents Handle Unavailable Colors Gracefully](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-unavailable-colors)
+
 🎄 Dec 8: [How AI Agents Handle Negations in Queries](https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-negations)
